@@ -1,1 +1,1 @@
-The website can be accessed with the link: "morse-code-app.vercel.app"
+The website can be accessed with the link: https://morse-code-app.vercel.app/
