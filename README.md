@@ -7,4 +7,5 @@ Follow these steps to set up the project locally:
 3. Run the Flask application.
 
 Feel free to fork this repository and submit pull requests for improvements or new features.
+
 This website can be accessed through: *https://morse-code-app.vercel.app/*
